@@ -27,3 +27,10 @@ Advanced Queries
 5. Identify the top 3 customers who spent the most money in each year.
  ## project link
 http://localhost:8888/notebooks/python%2Bsql_ecommrce-Copy1.ipynb
+##  🛠️ Tools Used
+
+- Excel/CSV dataset for import
+- sql
+- python (jyputert notebook)
+
+
