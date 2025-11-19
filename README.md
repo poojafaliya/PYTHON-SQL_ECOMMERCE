@@ -1,6 +1,5 @@
 # PYTHON-SQL_ECOMMERCE
-my first python plus sql project.
-
+## E-commerce Data Analysis python & sql
 ## dataset link
 https://drive.google.com/drive/folders/12dvYxsUZ7XUwlrXn6NTz6wwt7-0mdHsV?usp=sharing
 ## qustions
@@ -27,10 +26,119 @@ Advanced Queries
 5. Identify the top 3 customers who spent the most money in each year.
  ## project link
 http://localhost:8888/notebooks/python%2Bsql_ecommrce-Copy1.ipynb
-##  🛠️ Tools Used
 
-- Excel/CSV dataset for import
-- sql
-- python (jyputert notebook)
+# 📌 Project Overview
 
+This project performs comprehensive analysis on an e-commerce dataset using:
+
+Python (Pandas, Matplotlib, Seaborn)
+
+MySQL for storage and analytical queries
+
+Joins, Window Functions, Aggregations
+
+Business Insights & Visualizations
+
+The project demonstrates your ability to handle real-world e‑commerce data, transform raw CSVs into structured SQL tables, and extract meaningful insights.
+.
+
+# 📂 Dataset Files Used
+
+The following CSV files were imported dynamically into MySQL:
+
+customers.csv
+
+orders.csv
+
+sellers.csv
+
+products.csv
+
+geolocation.csv
+
+payments.csv
+
+order_items.csv
+
+## Python script automatically:
+
+Cleans column names
+
+Infers SQL datatypes
+
+Creates SQL tables
+
+Inserts all records into MySQL
+# ⚙️ Tech Stack
+
+Python Libraries:
+
+pandas
+
+mysql-connector-python
+
+matplotlib
+
+seaborn
+
+# Database:
+
+MySQL
+## 🧠 Key SQL & Python Analyses
+
+Below are the major analyses performed:
+
+✔️ 1. Unique customer cities
+
+Understanding customer distribution across locations.
+
+✔️ 2. Total orders placed in 2017
+
+Evaluating early platform performance.
+
+✔️ 3. Total sales per product category
+
+Identifying high-revenue categories.
+
+✔️ 4. Percentage of installment-based payments
+
+Shows customer preference for EMI payments.
+
+✔️ 5. Customer distribution by state (Bar Chart)
+
+Visualizing customer density.
+
+✔️ 6. Monthly order trend (2018)
+
+Finding seasonal purchase patterns.
+
+✔️ 7. Average products per order (city-wise)
+
+Detecting bulk-buying cities.
+
+✔️ 8. Revenue contribution % by category
+
+Category-level business health.
+
+✔️ 9. Correlation between price & purchase count
+
+Checking if price affects purchase frequency.
+
+✔️ 10. Top 10 sellers by revenue (Bar Chart)
+
+Highlighting top-performing sellers.
+
+✔️ 11. Moving average of order values per customer
+
+Customer buying behavior over time.
+
+✔️ 12. Cumulative monthly sales across years
+
+Trend analysis of platform growth.
+
+✔️ 13. Year-over-year revenue growth
+
+Understanding business expansion.
+
+✔️ 14. Top 3 highest-spending customers per year
 
